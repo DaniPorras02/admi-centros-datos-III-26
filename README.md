@@ -2,7 +2,11 @@
 
 Este es un documento de prueba 2.0
 Esto es una prueba sobre el mismo archivo
+Elvis Calderon Valle
 Matthias David Paniagua Rodriguez
 Daniela Melissa Porras Quiros
 Jordy Sibaja Morales
 Jose Sosa Blanco
+Jefferson Villalobos López
+Javier Davila Abarca
+main
