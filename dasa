@@ -1,0 +1,86 @@
+[33mcommit c355b00418bd9be99c09da720e6dfcb0b6e4cadd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mjavierDavila[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 8a8367e 3edf9a4
+Author: DaniPorras02 <daniporras97@gmail.com>
+Date:   Wed Nov 18 19:47:43 2026 -0600
+
+    Merge pull request #4 from DaniPorras02/dani2
+    
+    Esta es una prueba sobre el mismo archivo
+
+[33mcommit 3edf9a4bae92b17b941e3a6b2480398a2da35ef8[m[33m ([m[1;31morigin/dani2[m[33m)[m
+Author: Daniela Porras <daniporras97@gmail.com>
+Date:   Wed Nov 18 19:31:30 2026 -0600
+
+    Esta es una prueba sobre el mismo archivo
+
+[33mcommit 8a8367eb4c0d98f17a409e44ff66fffae81899fd[m
+Merge: 97e9f8e a4566fb
+Author: allisolano1909 <alli.solano1909@gmail.com>
+Date:   Wed Nov 18 19:40:05 2026 -0600
+
+    Merge pull request #6 from DaniPorras02/All22
+    
+    Prueba Readme
+
+[33mcommit a4566fb98ae236dcb7e0cc58e3520b1ba4103f27[m[33m ([m[1;31morigin/All22[m[33m)[m
+Author: Allison Solano <alli.solano1909@gmail.com>
+Date:   Wed Nov 18 19:38:26 2026 -0600
+
+    Prueba Readme
+
+[33mcommit 97e9f8ea7abe34cb2621b744572806394210521c[m
+Merge: 5a2791d 4978935
+Author: DaniPorras02 <daniporras97@gmail.com>
+Date:   Wed Nov 18 19:28:27 2026 -0600
+
+    Merge pull request #1 from DaniPorras02/DaniBranch
+    
+    Creacion del folder Folder1Dani
+
+[33mcommit 5a2791d3517718e11780d98427db1f82214185c3[m
+Merge: e43ebe8 2bc4362
+Author: allisolano1909 <alli.solano1909@gmail.com>
+Date:   Wed Nov 18 19:28:13 2026 -0600
+
+    Merge pull request #2 from DaniPorras02/AlliBranch
+    
+    Este es un commit para agregar el folder Folder1Alli
+
+[33mcommit e43ebe8b6962539b90dab9f74ab59753689bd448[m
+Merge: 0ee2f5a c1598d4
+Author: allisolano1909 <alli.solano1909@gmail.com>
+Date:   Wed Nov 18 19:26:56 2026 -0600
+
+    Merge pull request #3 from DaniPorras02/DaniBranch2
+    
+    Dani branch2
+
+[33mcommit c1598d41ce8ccb1c7a4db386fcf778a24adb9496[m[33m ([m[1;31morigin/DaniBranch2[m[33m)[m
+Author: Daniela Porras <daniporras97@gmail.com>
+Date:   Wed Nov 18 19:23:59 2026 -0600
+
+    Este es un commit para agregar el txt
+
+[33mcommit 2bc43623d361bb5ae6e92b0612ed76ac137a216f[m[33m ([m[1;31morigin/AlliBranch[m[33m)[m
+Author: Allison Solano <alli.solano1909@gmail.com>
+Date:   Wed Nov 18 19:13:19 2026 -0600
+
+    Este es un commit para agregar el folder Folder1Alli
+
+[33mcommit 3c4ebc6808d22bb19437bba59ad2213485007d4d[m
+Author: Daniela Porras <daniporras97@gmail.com>
+Date:   Wed Nov 18 19:11:59 2026 -0600
+
+    Este es un commit para agregar el folder folderDeDani
+
+[33mcommit 4978935f0e9466f923974f1e98975186a9bc043d[m[33m ([m[1;31morigin/DaniBranch[m[33m)[m
+Author: Daniela Porras <daniporras97@gmail.com>
+Date:   Wed Nov 18 19:02:38 2026 -0600
+
+    Creacion del folder Folder1Dani
+
+[33mcommit 0ee2f5a3435626321775de5d69278af50dbd1d75[m
+Author: DaniPorras02 <daniporras97@gmail.com>
+Date:   Wed Nov 18 17:48:29 2026 -0600
+
+    Initial commit
