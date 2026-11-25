@@ -7,3 +7,4 @@ Matthias David Paniagua Rodriguez
 Daniela Melissa Porras Quiros
 Jordy Sibaja Morales
 Jefferson Villalobos López
+Javier Davila Abarca
