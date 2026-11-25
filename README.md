@@ -9,3 +9,5 @@ Jordy Sibaja Morales
 =======
 Angie Vindas 
 >>>>>>> 4a3943a (Actualizacion del README)
+
+Angie Vindas
