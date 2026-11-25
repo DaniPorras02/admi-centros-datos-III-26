@@ -6,5 +6,7 @@ Elvis Calderon Valle
 Matthias David Paniagua Rodriguez
 Daniela Melissa Porras Quiros
 Jordy Sibaja Morales
+Jose Sosa Blanco
 Jefferson Villalobos López
 Javier Davila Abarca
+main
