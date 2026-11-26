@@ -7,3 +7,4 @@ Matthias David Paniagua Rodriguez
 Daniela Melissa Porras Quiros
 Jordy Sibaja Morales
 Angie Vindas
+Eduardo José Espinoza Rodríguez
